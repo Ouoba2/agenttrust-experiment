@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/*.json
+results/*.json
+*.log
+.env
+.DS_Store
+outreach_log.md
