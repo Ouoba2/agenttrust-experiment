@@ -6,3 +6,5 @@ results/*.json
 .env
 .DS_Store
 outreach_log.md
+NETWORK_MAP.md
+COMPARAISON_DJD.md
